@@ -1,0 +1,7 @@
+C:\Users\grm\source\repos\vector\bin\Debug\vector.exe.config
+C:\Users\grm\source\repos\vector\bin\Debug\vector.exe
+C:\Users\grm\source\repos\vector\bin\Debug\vector.pdb
+C:\Users\grm\source\repos\vector\obj\Debug\vector.csproj.AssemblyReference.cache
+C:\Users\grm\source\repos\vector\obj\Debug\vector.csproj.CoreCompileInputs.cache
+C:\Users\grm\source\repos\vector\obj\Debug\vector.exe
+C:\Users\grm\source\repos\vector\obj\Debug\vector.pdb

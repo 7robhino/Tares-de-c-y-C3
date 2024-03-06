@@ -1,0 +1,7 @@
+C:\Users\grm\source\repos\condicion\condicion\bin\Debug\condicion.exe.config
+C:\Users\grm\source\repos\condicion\condicion\bin\Debug\condicion.exe
+C:\Users\grm\source\repos\condicion\condicion\bin\Debug\condicion.pdb
+C:\Users\grm\source\repos\condicion\condicion\obj\Debug\condicion.csproj.AssemblyReference.cache
+C:\Users\grm\source\repos\condicion\condicion\obj\Debug\condicion.csproj.CoreCompileInputs.cache
+C:\Users\grm\source\repos\condicion\condicion\obj\Debug\condicion.exe
+C:\Users\grm\source\repos\condicion\condicion\obj\Debug\condicion.pdb

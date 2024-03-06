@@ -1,0 +1,7 @@
+C:\Users\grm\source\repos\convertidor\bin\Debug\convertidor.exe.config
+C:\Users\grm\source\repos\convertidor\bin\Debug\convertidor.exe
+C:\Users\grm\source\repos\convertidor\bin\Debug\convertidor.pdb
+C:\Users\grm\source\repos\convertidor\obj\Debug\convertidor.csproj.AssemblyReference.cache
+C:\Users\grm\source\repos\convertidor\obj\Debug\convertidor.csproj.CoreCompileInputs.cache
+C:\Users\grm\source\repos\convertidor\obj\Debug\convertidor.exe
+C:\Users\grm\source\repos\convertidor\obj\Debug\convertidor.pdb

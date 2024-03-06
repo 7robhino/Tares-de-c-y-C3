@@ -1,0 +1,7 @@
+C:\Users\grm\source\repos\sueldo\bin\Debug\sueldo.exe.config
+C:\Users\grm\source\repos\sueldo\bin\Debug\sueldo.exe
+C:\Users\grm\source\repos\sueldo\bin\Debug\sueldo.pdb
+C:\Users\grm\source\repos\sueldo\obj\Debug\sueldo.csproj.AssemblyReference.cache
+C:\Users\grm\source\repos\sueldo\obj\Debug\sueldo.csproj.CoreCompileInputs.cache
+C:\Users\grm\source\repos\sueldo\obj\Debug\sueldo.exe
+C:\Users\grm\source\repos\sueldo\obj\Debug\sueldo.pdb

@@ -1,0 +1,7 @@
+C:\Users\grm\source\repos\descuento\bin\Debug\descuento.exe.config
+C:\Users\grm\source\repos\descuento\bin\Debug\descuento.exe
+C:\Users\grm\source\repos\descuento\bin\Debug\descuento.pdb
+C:\Users\grm\source\repos\descuento\obj\Debug\descuento.csproj.AssemblyReference.cache
+C:\Users\grm\source\repos\descuento\obj\Debug\descuento.csproj.CoreCompileInputs.cache
+C:\Users\grm\source\repos\descuento\obj\Debug\descuento.exe
+C:\Users\grm\source\repos\descuento\obj\Debug\descuento.pdb
